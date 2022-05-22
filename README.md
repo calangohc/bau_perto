@@ -6,6 +6,8 @@ Aqui em Brasília/DF, os ônibus são popularmente conhecidos como "baús".
 
 Veja também nossa experiência de controle social no YouTube: https://www.youtube.com/watch?v=nQy6B_6SKos
 
+O código está rodando como um bot no Telegram: [@calangobaubot](https://t.me/calangobaubot)
+
 ### Para subir um bot do Telegram:
 
    - Crie um arquivo secrets.txt e inclua uma variável BOT_TOKEN contendo um token criado pelo BotFather
