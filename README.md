@@ -13,11 +13,11 @@ Veja também nossa experiência de controle social no YouTube: https://www.youtu
 
 ### Arquivos
 
-baus.py = Código principal. Busca dados usando requests
-main_selenium.py = Estratégia inicial usando Selenium (abandonado)
-requirements.txt = usado pelo pip para baixar dependências python
-server.py = Pensando em subir um servidor com CORS ativado e buscar dados do json usando Javascript
-tel_bot.py = Bot de Telegram
+ - baus.py = Código principal. Busca dados usando requests
+ - main_selenium.py = Estratégia inicial usando Selenium (abandonado)
+ - requirements.txt = usado pelo pip para baixar dependências python
+ - server.py = Pensando em subir um servidor com CORS ativado e buscar dados do json usando Javascript
+ - tel_bot.py = Bot de Telegram
 
 ### Histórico
 
