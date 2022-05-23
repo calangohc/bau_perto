@@ -31,7 +31,7 @@ def get_veiculos():
 
     # percorre o json, organizado como um dict para cada operadora:
     for operadora in req.json():
-        print(operadora['operadora'])
+        # print(operadora['operadora'])
         sigla_operadora = operadora['operadora']['sigla']
         # print(operadora['veiculos'][0].keys())
 

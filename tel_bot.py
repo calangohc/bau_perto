@@ -5,6 +5,7 @@ from telegram.ext import CallbackContext, CommandHandler, Updater
 
 def start(update: Update, context: CallbackContext):
     context.bot.send_message(chat_id=update.effective_chat.id, text="Oi! Eu estou no Calango vigiando os baús!")
+    context.bot.send_message(chat_id=update.effective_chat.id, text="Use o comando /perto para ver se há algum por aqui.")
 
 def perto(update: Update, context: CallbackContext):
     context.bot.send_message(chat_id=update.effective_chat.id, text="Deixa eu ver se tem algum baú por perto...")
